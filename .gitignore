@@ -8,3 +8,6 @@ node_modules
 cdk.out
 cdk-key.pem
 .DS_Store
+
+templates/*.yaml
+.vscode/settings.json
